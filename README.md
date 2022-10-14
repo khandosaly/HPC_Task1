@@ -1,2 +1,11 @@
-# HPC_Task1
-HPC_Task1
+# HPC Projects
+
+Report 1:
+```
+g++ -O3 -o report_1/sequential.exe report_1/raytracing.cpp -lminirt
+```
+
+Example 1 ( Hello threads):
+```
+g++ -O3 -o thread_hello/compiled thread_hello/thread_hellp.cpp -lpthread
+```

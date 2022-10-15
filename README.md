@@ -15,3 +15,7 @@ Example 2 ( Array threads):
 g++ -O3 -o threads_array/compiled threads_array/array.cpp -lpthread
 ```
 
+Report 2:
+```
+g++ -O3 -o report_2/compiled.out report_2/raytracing_threads.cpp -lminirt -lpthread
+```

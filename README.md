@@ -19,3 +19,9 @@ Report 2:
 ```
 g++ -O3 -o report_2/compiled.out report_2/raytracing_threads.cpp -lminirt -lpthread
 ```
+
+Report 3:
+```
+g++ -O3 -o report_3/compiled.out report_3/raytracing_openmp.cpp -lminirt -fopenmp
+```
+

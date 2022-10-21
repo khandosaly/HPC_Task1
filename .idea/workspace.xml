@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="000b5d9e-fd23-4cbc-aa15-5000e180ce54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/report_2/raytracing_threads.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report_3/raytracing_openmp.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -67,7 +67,9 @@
       <workItem from="1665740545986" duration="1853000" />
       <workItem from="1665742865144" duration="346000" />
       <workItem from="1665743283863" duration="1298000" />
-      <workItem from="1665809838059" duration="6848000" />
+      <workItem from="1665809838059" duration="9124000" />
+      <workItem from="1665993807199" duration="1208000" />
+      <workItem from="1666325148539" duration="5016000" />
     </task>
     <servers />
   </component>

@@ -25,3 +25,7 @@ Report 3:
 g++ -O3 -o report_3/compiled.out report_3/raytracing_openmp.cpp -lminirt -fopenmp
 ```
 
+Report 4:
+```
+mpicxx -std=c++17 -O3 -o report_4/compiled.out report_4/raytracing_mpi.cpp -lminirt
+```
